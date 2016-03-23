@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">XingZuoFortune</string>
+    <string name="title_activity_xing_zuo_list">XingZuoListActivity</string>
+    <string name="text_baiyang">白羊座</string>
+    <string name="text_jinniu">金牛座</string>
+    <string name="text_shuangzi">双子座</string>
+    <string name="text_juxie">巨蟹座</string>
+    <string name="text_shizi">狮子座</string>
+    <string name="text_chunv">处女座</string>
+    <string name="text_tianping">天枰座</string>
+    <string name="text_tianxie">天蝎座</string>
+    <string name="text_sheshou">射手座</string>
+    <string name="text_mojie">摩羯座</string>
+    <string name="text_shuiping">水瓶座</string>
+    <string name="text_shuangyu">双鱼座</string>
+</resources>
